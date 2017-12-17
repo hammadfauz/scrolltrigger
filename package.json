@@ -1,5 +1,5 @@
 {
-  "name": "scrolltrigger",
+  "name": "react_scrolltrigger",
   "version": "1.0.0",
   "description": "React Component triggers an event when it scrolls into view",
   "main": "dist/index.js",
